@@ -12,5 +12,7 @@ public class A {
         System.out.println("git5");
         System.out.println("git6");
         System.out.println("git -- master2");
+        System.out.println("git -- master3");
+
     }
 }
