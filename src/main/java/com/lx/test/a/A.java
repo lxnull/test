@@ -12,5 +12,6 @@ public class A {
         System.out.println("git5");
         System.out.println("git6");
         System.out.println("git -- hot-fix2");
+        System.out.println("git -- hot-fix3");
     }
 }
